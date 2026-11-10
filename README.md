@@ -1,4 +1,4 @@
-# EXP-1
+
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -44,10 +44,13 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+<img width="1920" height="1080" alt="Screenshot 2026-11-10 102602" src="https://github.com/user-attachments/assets/5acfe186-1417-44b7-8a32-30897233595c" />
+
  
 
 
 b.  KCL:
+<img width="1920" height="1080" alt="Screenshot 2026-11-10 103221" src="https://github.com/user-attachments/assets/37b6e01d-24af-4013-90e1-300997fdbcad" />
  
 
 Calculation:
